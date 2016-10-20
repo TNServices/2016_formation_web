@@ -1,0 +1,11 @@
+{
+  "name": "gazou-server",
+  "version": "0.1.0",
+  "description": "A simple Node.js HTTP Server to handle twitter-like Gazou",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Benjamin SEGAULT <benjamin.segault@gmail.com> (https://github.com/bsegault)",
+  "license": "MIT"
+}

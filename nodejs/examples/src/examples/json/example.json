@@ -1,0 +1,10 @@
+{
+    "_comment": "There is no comment in JSON. Indent is not required for JSON",
+    "key": {
+        "count": 1,
+        "statements": ["I love fruits.", "I like cats."]
+    },
+    "something": {
+        "key": "item"
+    }
+}

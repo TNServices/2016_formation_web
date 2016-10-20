@@ -1,0 +1,10 @@
+# This is a line comment
+# YAML is a superset of JSON
+# YAML requires indent (only two spaces for indents)
+key:
+  count: 1
+  statements:
+     - "I love fruits."
+     - "I like cats."
+  something:
+      key: "item"
